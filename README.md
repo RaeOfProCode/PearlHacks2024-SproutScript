@@ -22,5 +22,5 @@ We learned how to look at documentation of a package that we have never used bef
 # What's next for Sprout Script
 We would love to implement a better user interface, as well as take input from the user to allow them to type the code themselves. Ultimately, we want Sprout Script to be one of many games on a website that has educational, coding-centered games. As we further our own coding skills, we want to be able to help younger girls improve theirs as well.
 
-#DEVPOST Link: 
+# DEVPOST Link: 
 https://devpost.com/software/pearl-hacks-24
